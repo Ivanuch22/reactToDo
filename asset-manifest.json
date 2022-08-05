@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ivanuch22/reactToDo/static/css/main.ea10b301.css",
-    "main.js": "/Ivanuch22/reactToDo/static/js/main.b5ba070d.js",
-    "index.html": "/Ivanuch22/reactToDo/index.html",
-    "main.ea10b301.css.map": "/Ivanuch22/reactToDo/static/css/main.ea10b301.css.map",
-    "main.b5ba070d.js.map": "/Ivanuch22/reactToDo/static/js/main.b5ba070d.js.map"
+    "main.css": "/Ivanuch22/reactToDo.git/static/css/main.ea10b301.css",
+    "main.js": "/Ivanuch22/reactToDo.git/static/js/main.67ace971.js",
+    "index.html": "/Ivanuch22/reactToDo.git/index.html",
+    "main.ea10b301.css.map": "/Ivanuch22/reactToDo.git/static/css/main.ea10b301.css.map",
+    "main.67ace971.js.map": "/Ivanuch22/reactToDo.git/static/js/main.67ace971.js.map"
   },
   "entrypoints": [
     "static/css/main.ea10b301.css",
-    "static/js/main.b5ba070d.js"
+    "static/js/main.67ace971.js"
   ]
 }
